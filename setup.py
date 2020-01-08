@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='print-hello-world',  
-    version='0.0.1',
+    version='0.0.2',
     scripts=['print-hello-world'],
     author="Hans Maulloo",
     author_email="askyourkode@gmail.com",

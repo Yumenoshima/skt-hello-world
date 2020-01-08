@@ -18,3 +18,5 @@ Package @ PyPI repository: https://pypi.org/project/print-hello-world/
 ```
 $ print-hello-world
 ```
+
+Tutorial for package [here](https://askyourcode.blogspot.com/2020/01/uploading-your-python-project-to-pypi.html)!
